@@ -1,0 +1,18 @@
+{
+  "label": "KarooDash",
+  "packageName": "pl.wlach.karoodash",
+  "latestApkUrl": "https://github.com/Wotjek/karoodash/releases/latest/download/app-release.apk",
+  "latestVersion": "3.7",
+  "latestVersionCode": 18,
+  "iconUrl": "https://raw.githubusercontent.com/Wotjek/karoodash/main/icon.png",
+  "developer": "Wotjek",
+  "description": "KarooDash dodaje do Hammerhead Karoo w pełni konfigurowalne dashboardy pól danych oraz ekrany treningowe. Zbuduj własne siatki (1–5 wierszy × 1–3 kolumny) z ponad 90 metryk: prędkość, moc (IF, TSS, NP, kJ, 30 s), tętno i %HRR, kadencja, okrążenia, Strava Live Segments, dane Climbera, osprzęt i pogoda. Kolory tętna i mocy pochodzą z Twojego profilu Karoo (strefy), a pozostałe metryki możesz kolorować własnymi progami.\n\nDo tego 13 komórek-wykresów renderowanych na żywo: linie mocy/tętna/prędkości/wysokości, czas w strefach, pasek strefy live, łuk %FTP, profil najbliższych 5 km i róża wiatru. Osobne ekrany pełnostronicowe: profil podjazdów z listą, POI z ETA oraz radar opadów (RainViewer) z zasięgiem 30–240 km, działający także bez WiFi przez telefon (Companion).\n\nPogoda z Open-Meteo (model ICON-D2 nad Polską i Europą Środkową): wiatr względem kierunku jazdy, deszcz za X minut, temperatura odczuwalna i prognoza na trasie. Aplikacja jest zawsze ciemna, zoptymalizowana pod czytelność w słońcu i obsługę w rękawiczkach.",
+  "releaseNotes": "3.7: wpis w Extension Library (karuzela, opis, aktualizacje przez manifest). Wcześniej: ekran „O aplikacji”, skala wartości per pole, wygładzone wykresy, szybszy mini-radar, radar bez mylącej warstwy śniegu + legenda opadów.",
+  "screenshotUrls": [
+    "https://raw.githubusercontent.com/Wotjek/karoodash/main/screenshots/1-dashboard.png",
+    "https://raw.githubusercontent.com/Wotjek/karoodash/main/screenshots/2-wykresy.png",
+    "https://raw.githubusercontent.com/Wotjek/karoodash/main/screenshots/3-strefy.png",
+    "https://raw.githubusercontent.com/Wotjek/karoodash/main/screenshots/4-profil.png"
+  ],
+  "tags": ["performance", "weather", "health"]
+}
