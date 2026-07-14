@@ -32,13 +32,14 @@ Kod źródłowy jest prywatny.
 - **Strefy z profilu Karoo** dla tętna i mocy; własne progi kolorów dla reszty.
 - **Pogoda ICON-D2** (Open-Meteo): wiatr względny, deszcz za X min, odczuwalna,
   prognoza na trasie.
-- **Radar opadów** (RainViewer) 30–240 km, działa też bez WiFi (przez telefon).
+- **Radar opadów** (RainViewer) 30-240 km, działa też bez WiFi (przez telefon).
 - **Ekrany specjalne:** profil podjazdów, POI z ETA, radar.
 - Zawsze ciemny motyw, czytelny w słońcu, obsługa w rękawiczkach.
 
 ## Zrzuty ekranu
 
 <p>
+  <img src="screenshots/0-mapa.png" width="180">
   <img src="screenshots/1-dashboard.png" width="180">
   <img src="screenshots/2-wykresy.png" width="180">
   <img src="screenshots/3-strefy.png" width="180">
